@@ -23,3 +23,5 @@
           <li>Royal Netherlands Brigade</li>
     <h3>German Order of Battle</h3>
       <a href="https://en.wikipedia.org/wiki/Operation_Market_Garden_order_of_battle">click here to view the German Order of Battle</a>
+  </body>
+</html>  
