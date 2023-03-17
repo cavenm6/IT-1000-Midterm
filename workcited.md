@@ -4,7 +4,7 @@
     <h1>Work Cited</h1>
   </head>
   <body>
-    <a href="/.README.md">Click here to go back to the homepage</a>
+    <a href="/README.md">Click here to go back to the homepage</a>
     <h1>Work Cited</h1>
       <h4>Text Sections</h4>
         <p>National Army Museum</p>
