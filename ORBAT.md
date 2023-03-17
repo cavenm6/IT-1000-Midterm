@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Orders of Battle</title>
+    <h1>Orders of Battle</h1>
   </head>
   <body>
     <a href="/README.md">Click here to go back to the homepage</a>
