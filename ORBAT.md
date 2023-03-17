@@ -14,7 +14,7 @@
           <li>Polish 1st Parachute Brigade</li>
           <li>American 82nd Airborne Div.</li>
           <li>American 101st Airborne Div.</li>
-        <li><i>XXX Corps(British)<i></li>
+        <li><i>XXX Corps(British)</i></li>
         <ul>
           <li>Guards Armored Division</li>
           <li>43rd Infantry Division</li>
