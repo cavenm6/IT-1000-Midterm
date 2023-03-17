@@ -4,7 +4,7 @@
     <title>Orders of Battle</title>
   </head>
   <body>
-    <a href="/.README.html">Click here to go back to the homepage</a>
+    <a href="/.README.md">Click here to go back to the homepage</a>
     <h3>Allied Order of Battle</h3>
       <body>This was the Allied order of battle during Market Garden</body>
       <ol>

@@ -12,8 +12,8 @@
       <h4>The Plan</h4>
         <p>Then the British 30 Corps could advance over the bridges and cross the Rhine and its tributaries. The bridges were at Eindhoven, around 20 kilometres (13 miles) from the start line, Nijmegen, 85 kilometres (53 miles), and Arnhem, 100 kilometres (62 miles) away, as well as two smaller bridges at Veghel and Grave that lay between Eindhoven and Nijmegen.</p>
     <a href="./ORBAT.md">Click here to view the orders of battles of both sides</a>
-    <a href="./pictures.html">Click here to view pictures</a>
-    <a href="./history.html">Click here to read about how the battle unfolded</a> 
-    <a href="./workcited.html">Click here to view a work cited page</a>
+    <a href="./pictures.md">Click here to view pictures</a>
+    <a href="./history.md">Click here to read about how the battle unfolded</a> 
+    <a href="./workcited.md">Click here to view a work cited page</a>
     </body>
     </html>
